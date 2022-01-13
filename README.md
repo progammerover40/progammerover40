@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @progammerover40
+- 👋 Hi, I’m @progammerover40 
+-     my name is Yohanes ,this pandemic makes me losing my job
+-     so now i'm trying to make a new path carreer in web programming
 - 👀 I’m interested in web&app development
 - 🌱 I’m currently learning javasript,express,nodejs,mongodb
 - 💞️ I’m looking to collaborate on anything 
