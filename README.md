@@ -2,9 +2,8 @@
 -     my name is Yohanes ,this pandemic makes me losing my job
 -     so now i'm trying to make a new path carreer in web programming
 - 👀 I’m interested in web&app development
-- 🌱 I’m currently learning javasript,express,nodejs,mongodb
+- 🌱 I’m currently learning javasripts, react.js, express, nodejs, mongodb
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me ...
 
 <!---
 progammerover40/progammerover40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
